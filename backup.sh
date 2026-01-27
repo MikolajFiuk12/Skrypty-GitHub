@@ -3,9 +3,9 @@
 # -----------------------------
 # KONFIGURACJA
 # -----------------------------
-SOURCE="/opt/minecraft/26.1"   # folder do backupu
+SOURCE="/opt/minecraft/myserver"   # folder do backupu
 DEST="/opt/Backups"            # folder docelowy backupów
-MAX_BACKUPS=5                  # ile backupów przechowywać
+MAX_BACKUPS=20                  # ile backupów przechowywać
 LOG_FILE="$DEST/backup.log"    # plik logów
 
 # -----------------------------
